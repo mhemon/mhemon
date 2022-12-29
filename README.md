@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Emon</h1>
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
+<h3 align="center">A passionate Wev and Android developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhemon&label=Profile%20views&color=0e75b6&style=flat" alt="mhemon" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://mhemon.github.io/](https://mhemon.github.io/)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web & Android**
 
 - 📫 How to reach me **mhemon02@gmail.com**
 
