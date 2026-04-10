@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning (ML)**
 
-- 💬 Ask me about **NLP & Data Science**
+- 💬 Ask me about **NLP, AI, Linguistic Data Science**
 
 - 📫 How to reach me **mhemon02@gmail.com**
 
