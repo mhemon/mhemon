@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning (ML)**
 
-- 👨‍💻 All of my projects are available at [https://mehediemon.com/](https://mehediemon.com/)
-
 - 💬 Ask me about **NLP & Data Science**
 
 - 📫 How to reach me **mhemon02@gmail.com**
