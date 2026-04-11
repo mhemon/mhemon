@@ -37,7 +37,7 @@ Currently working as a **Werkstudent at secunet Security Networks** while resear
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🤖 AI / NLP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,7 +52,7 @@ Currently working as a **Werkstudent at secunet Security Networks** while resear
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -60,16 +60,7 @@ Currently working as a **Werkstudent at secunet Security Networks** while resear
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhemon&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🔍 Research Interests
+## Research Interests
 
 | Area | Topics |
 |------|--------|
@@ -79,7 +70,7 @@ Currently working as a **Werkstudent at secunet Security Networks** while resear
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 > NLP • AI • Linguistic Data Science • Bengali Language Processing • Full-Stack Development
 
