@@ -18,7 +18,7 @@
 
 I'm a **Master's student in Linguistic Data Science** at Ruhr-Universität Bochum, Germany, with a background in full-stack development and a growing focus on **NLP and AI**.
 
-Currently working as a **Werkstudent at secunet Security Networks**.
+Currently working as a **Werkstudent at secunet Security Networks AG**.
 
 ```text
 🎓  M.A Linguistic Data Science    →  Ruhr-Universität Bochum
