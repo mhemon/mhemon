@@ -16,15 +16,13 @@
 
 ## 👋 About Me
 
-I'm a **Master's student in Linguistic Data Science** at Ruhr-Universität Bochum, Germany, with a background in full-stack development and a growing focus on **NLP and AI**.
-
-Currently working as a **Werkstudent at secunet Security Networks AG**.
+I'm a **Master's student in Linguistic Data Science** at Ruhr-Universität Bochum, Germany, with a background in full-stack development and a growing focus on **NLP and AI**. Currently working as a **Werkstudent at secunet Security Networks AG**.
 
 ```text
 🎓  M.A Linguistic Data Science    →  Ruhr-Universität Bochum
 💼  Werkstudent                    →  secunet Security Networks
 🔬  Research Focus                 →  NLP, AI, Linguistic Data Science
-🌍  Languages                      →  Bengali (native) | English (fluent) | German (learning)
+🌍  Languages                      →  Bengali (native) | English (fluent) | German (B1 learning)
 ```
 
 ---
@@ -63,15 +61,14 @@ Currently working as a **Werkstudent at secunet Security Networks AG**.
 
 | Area | Topics |
 |------|--------|
-| **Corpus Linguistics** | Bengali POS tagging, adjective syntax, scalar structure (research project) |
-| **NLP** | Low-resource languages, morphological analysis, Bengali language models |
+| **NLP** | Text preprocessing, Sentiment Analysis,  Named Entity Recognition (NER)  |
 | **AI** | LLMs, transformer architectures, multilingual models |
 
 ---
 
 ## Ask Me About
 
-> NLP • AI • Linguistic Data Science • Bengali Language Processing • Full-Stack Development
+> NLP • AI • Linguistic Data Science • Sentiment Analysis • Full-Stack Development
 
 ---
 
